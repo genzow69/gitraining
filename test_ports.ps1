@@ -1,4 +1,8 @@
-﻿function Test-Port($hostname, $port)
+﻿ #NEW FAKE DECLINAISON TO TEST BRANCH SYSTEM
+ # Actually there are no modification or update
+
+
+function Test-Port($hostname, $port)
 {
     # This works no matter in which form we get $host - hostname or ip address
     try {
