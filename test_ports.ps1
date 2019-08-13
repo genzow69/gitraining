@@ -1,6 +1,6 @@
-﻿ #NEW FAKE DECLINAISON TO TEST BRANCH SYSTEM
+﻿ #VERSION NEWBRANCH
  # Actually there are no modification or update
-#WTF sparkling test modified from masta 
+#WTH sparkling test modified from newbranch  
 
 function Test-Port($hostname, $port)
 {
