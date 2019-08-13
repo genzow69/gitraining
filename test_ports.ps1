@@ -1,6 +1,10 @@
 ﻿ #VERSION NEWBRANCH
  # Actually there are no modification or update
+<<<<<<< HEAD
 #WTH sparkling test modified from newbranch  
+=======
+
+>>>>>>> parent of 4dac579... minor update on test_ports.ps1
 
 function Test-Port($hostname, $port)
 {
