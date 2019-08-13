@@ -1,6 +1,6 @@
-﻿ # VERSION MASTA BRANCH
+﻿ #VERSION NEWBRANCH
  # Actually there are no modification or update
-# #WTF sparkling test modified from MASTA
+#WTH sparkling test modified from newbranch  
 
 function Test-Port($hostname, $port)
 {
