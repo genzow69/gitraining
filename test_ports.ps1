@@ -1,9 +1,12 @@
-#VERSION NEWBRANCH
- # Actually there are no modification or update
+﻿#VERSION NEWBRANCH
+ 
+# Actually there are no modification or update
 
 function Test-Port($hostname, $port)
 {
-    # This works no matter in which form we get $host - hostname or ip address
+    
+# This works no matter in which form we get 
+$host - hostname or ip address
     try {
         $ip = [System.Net.Dns]::GetHostAddresses($hostname) | 
             select-object IPAddressToString -expandproperty  IPAddressToString
